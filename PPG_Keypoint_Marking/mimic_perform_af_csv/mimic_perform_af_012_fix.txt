@@ -1,0 +1,7 @@
+mimic_perform_af_012
+Signals: PPG, Fingertip PPG recorded using bedside monitor; and ECG, ECG recorded using bedside monitor, lead II; and resp, Impedance pneumography respiratory signal recorded at the chest using bedside monitor
+Sampling frequency: 125 Hz
+Original Subject ID: p077729
+Original Recording ID: p077729-2120-08-31-01-03
+Original file: 3313331_0006
+Group: 

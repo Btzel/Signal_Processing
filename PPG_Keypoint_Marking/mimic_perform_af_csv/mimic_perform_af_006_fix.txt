@@ -1,0 +1,7 @@
+mimic_perform_af_006
+Signals: PPG, Fingertip PPG recorded using bedside monitor; and ECG, ECG recorded using bedside monitor, lead II
+Sampling frequency: 125 Hz
+Original Subject ID: p043613
+Original Recording ID: p043613-2185-01-18-23-52
+Original file: 3122991_0002; 3122991_0002; 3122991_0002; 3122991_0002; 3122991_0002; 3122991_0002; 3122991_0002
+Group: 

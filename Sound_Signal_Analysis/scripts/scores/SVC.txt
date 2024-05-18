@@ -1,0 +1,13 @@
+SVC - Results:
+Mean Cross Validation Score = 0.9310286802585896
+Accuracy Score = 0.9272445820433437
+Precision Score (micro) = 0.9272445820433437
+Precision Score (macro) = 0.9045134980519386
+Precision Score (weighted) = 0.9265388414622951
+Recall Score (micro) = 0.9272445820433437
+Recall Score (macro) = 0.7023858497721378
+Recall Score (weighted) = 0.9272445820433437
+F1 Score (micro) = 0.9272445820433437
+F1 Score (macro) = 0.7723976095434139
+F1 Score (weighted) = 0.9218646998126759
+Mean Squared Error = 0.8751289989680082

@@ -1,0 +1,13 @@
+KNN - Results:
+Mean Cross Validation Score = 0.9373910960484055
+Accuracy Score = 0.9401444788441693
+Precision Score (micro) = 0.9401444788441693
+Precision Score (macro) = 0.8706993435553805
+Precision Score (weighted) = 0.9392600330056645
+Recall Score (micro) = 0.9401444788441693
+Recall Score (macro) = 0.7668615592838575
+Recall Score (weighted) = 0.9401444788441693
+F1 Score (micro) = 0.9401444788441693
+F1 Score (macro) = 0.8092228403903952
+F1 Score (weighted) = 0.937998169276199
+Mean Squared Error = 0.6460268317853457

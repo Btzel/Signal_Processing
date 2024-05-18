@@ -1,0 +1,13 @@
+RF - Results:
+Mean Cross Validation Score = 0.9232899196195682
+Accuracy Score = 0.913828689370485
+Precision Score (micro) = 0.913828689370485
+Precision Score (macro) = 0.8375686710340102
+Precision Score (weighted) = 0.9117676867525021
+Recall Score (micro) = 0.913828689370485
+Recall Score (macro) = 0.6455795516202849
+Recall Score (weighted) = 0.913828689370485
+F1 Score (micro) = 0.913828689370485
+F1 Score (macro) = 0.7069083696034106
+F1 Score (weighted) = 0.906666139579997
+Mean Squared Error = 0.8813209494324046

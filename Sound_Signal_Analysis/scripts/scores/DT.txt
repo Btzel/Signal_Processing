@@ -1,0 +1,13 @@
+DT - Results:
+Mean Cross Validation Score = 0.8569003554719614
+Accuracy Score = 0.848813209494324
+Precision Score (micro) = 0.848813209494324
+Precision Score (macro) = 0.5346410554368511
+Precision Score (weighted) = 0.8508135216336088
+Recall Score (micro) = 0.848813209494324
+Recall Score (macro) = 0.5458188772245294
+Recall Score (weighted) = 0.848813209494324
+F1 Score (micro) = 0.848813209494324
+F1 Score (macro) = 0.5368397039336215
+F1 Score (weighted) = 0.8495036815570862
+Mean Squared Error = 1.4385964912280702

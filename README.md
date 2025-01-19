@@ -111,25 +111,6 @@ python pqrst_detector.py
 - Achieved accurate background noise filtering
 - Generated comprehensive spectrograms
 
-## 🔄 Future Improvements
-
-1. **Model Enhancement**
-   - Deep learning implementation
-   - Real-time processing optimization
-   - Enhanced feature extraction
-
-2. **Performance Optimization**
-   - Improved window size analysis
-   - Better noise reduction
-   - Faster inference times
-
-## 🤝 Contributing
-
-Contributions are welcome! Key areas:
-1. Model optimization
-2. Signal preprocessing improvements
-3. Documentation enhancement
-4. New feature implementation
 
 ## 📝 License
 
